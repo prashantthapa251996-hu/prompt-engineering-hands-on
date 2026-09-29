@@ -1,17 +1,3 @@
-Content	Version	Relevance	Tone	Formatting	Length	Total
-Blog	Before	4	4	4	4	16/20
-Blog	After	5	5	5	5	20/20
-LinkedIn	Before	4	4	4	4	16/20
-LinkedIn	After	5	5	5	5	20/20
-Email	Before	4	3	4	4	15/20
-Email	After	5	5	5	5	20/20
-Instagram	Before	5	4	5	5	19/20
-Instagram	After	5	5	5	5	20/20
-YouTube	Before	4	4	3	4	15/20
-YouTube	After	5	5	5	3	18/20
-Product	Before	4	4	4	4	16/20
-Product	After	5	5	5	2	17/20
-
 1. Blog
 Objective
 
