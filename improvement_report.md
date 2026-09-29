@@ -119,13 +119,5 @@ Quality Comparison Summary
 
 The Before version scored 16/20, while the After version scored 17/20. The After version has a clearer product title, value-focused introduction, feature list, and more specific product benefits. However, the output does not fully meet the requested 120–150-word length and does not include the requested closing purchase sentence, so the Length score was reduced.
 
-Final Comparison for Your Report
-Content	Before Total	After Total	Improvement
-Blog	16/20	20/20	+4
-LinkedIn	16/20	20/20	+4
-Email	15/20	20/20	+5
-Instagram	19/20	20/20	+1
-YouTube	15/20	18/20	+3
-Product	16/20	17/20	+1
-Overall	97/120	115/120	+18
+
 
