@@ -59,6 +59,7 @@ Goal: Explain practical ways AI can improve everyday productivity.
 Context: The audience consists of beginners interested in AI who may not have technical knowledge. Cover writing, research, summarization, planning, and repetitive tasks.
 Constraints: Use a friendly and engaging tone, avoid unnecessary technical terminology, keep the script around 700–900 words, and include practical examples.
 Output: Create a ready-to-record YouTube script with an attention-grabbing hook, introduction, clearly structured sections, conclusion, and call to action.
+
 PRODUCT DESCRIPTION — Few-Shot
 Optimized Product Description Prompt
 
